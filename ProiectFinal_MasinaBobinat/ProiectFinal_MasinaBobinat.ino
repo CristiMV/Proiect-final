@@ -57,7 +57,7 @@ void loop() {
 void go(int pinStepper, int per, int& prevTime)   //functia primeste ca parametri pinul pe care se trimite comanda de pas, perioda pasului
 //si momentul in care s-a facut ultimul pas (acesta din urma se modifica cand se face un pas)
 {
-  if ( now - prevTime <= per/2 )
+  if ( now - prevTime >= per/2 )
   {
     digitalWrite(pinStepper, LOW );
   }
