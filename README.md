@@ -51,8 +51,11 @@ Fire conectate la Arduino si rolul lor:
 Negru - se conecteaza la GND
 
 Verde - pas motor transport (se conecteaza la pinul 8)
+
 Alb - sens motor transport (pinul 9)
+
 Albastru - pas motor bobinare (pinul 11)
 
 Maro - optocuplor stanga (pinul 12)
+
 Galben - optocuplor dreapta (pinul 13)
