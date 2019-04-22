@@ -1,4 +1,4 @@
-# Proiect final - Voicu Cristian Marius
+# Proiect final Arduino - Voicu Cristian Marius
 
 Proiectul meu este un aparat de bobinat.
 
